@@ -18,6 +18,10 @@ function mapToNoChange(sourceArray) {
   return sourceArray
 }
 console.log([1,4,5]);
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b4565cea9ba46e98985916129f5ee8653b4423a5
 
 ///
 
